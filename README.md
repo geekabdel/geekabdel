@@ -2,10 +2,10 @@
 
 ### Hello World ! I'm Abdelhamid 👋
 
-## ✅💡💻 I'm a Software Engineer , Full Stack Developer , Graphic Designer , Born To Be Geek 100% ! ✅💡💻
+## ✅💡💻 I'm a Software Developer , Born To Be Geek 100% ! ✅💡💻
 
 - 🔑 I’m currently learning **DevOps** 💡
-- 📈 2021 Goals: Being the best on what i am doing (**Programing** , **Freelance**) /_ Eat Code & Eat Work _/
+- 📈 2023 Goals: Being the best on what i am doing (**Programing** , **Freelance**) /_ It's my Year _/
 - ⚡ logo: **Purpose Never Die <3** 💟
 - 👯 I’m always looking to **collaborate with others**
 
@@ -44,18 +44,14 @@
 [<img src="./assets/images/css3.svg" alt="css3 Icon" width="40px"/>]()
 [<img src="./assets/images/sass.svg" alt="sass Icon" width="40px"/>]()
 [<img src="./assets/images/c.svg" alt="c Icon" width="40px"/>]()
-[<img src="./assets/images/java.svg" alt="java Icon" width="40px"/>]()
-[<img src="./assets/images/python.svg" alt="python Icon" width="40px"/>]()
 [<img src="./assets/images/php.svg" alt="php Icon" width="40px"/>]()
 [<img src="./assets/images/laravel.svg" alt="laravel Icon" width="40px"/>]()
 [<img src="./assets/images/mysql.svg" alt="mysql Icon" width="40px"/>]()
 [<img src="./assets/images/mongodb.svg" alt="mongodb Icon" width="40px"/>]()
 [<img src="./assets/images/git.svg" alt="git Icon" width="40px"/>]()
 [<img src="./assets/images/github.svg" alt="github Icon" width="40px"/>]()
-[<img src="./assets/images/gitlab.svg" alt="gitlab Icon" width="40px"/>]()
-[<img src="./assets/images/bitbucket.svg" alt="bitbucket Icon" width="40px"/>]()
 [<img src="./assets/images/vscode.png" alt="vscode Icon" width="40px"/>]()
-[<img src="./assets/images/eclipse.png" alt="eclipse Icon" width="40px"/>]()
+
 
 <br/>  
 <div align="center">
