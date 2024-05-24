@@ -17,18 +17,6 @@
 
 <br/>
 
-## :zap: Github Stats & ## :zap: Most Used Languages
-
-<div align="center">
-<img width="50%" src="https://github-readme-stats.vercel.app/api?username=geekabdel&show_icons=true&theme=radical" />
-</div>
-<div align="center">
-<img align="center" width="50%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=geekabdel&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
-</div>
-
-
-
-
 
 
 ## :zap: Some Languages and Tools:
