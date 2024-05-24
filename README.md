@@ -5,8 +5,8 @@
 ## ✅💡💻 I'm a Software Developer , Born To Be Geek 100% ! ✅💡💻
 
 - 🔑 I’m currently learning **DevOps** 💡
-- 📈 2023 Goals: Being the best on what i am doing (**Programing** , **Freelance**) /_ It's my Year _/
-- ⚡ logo: **Purpose Never Die <3** 💟
+- 📈 2024 Goals: Being the best on what i am doing (**Programing**) /_ It's my Year _/
+- ⚡ logo: **Purpose Never Die ** 💟
 - 👯 I’m always looking to **collaborate with others**
 
 <br />
@@ -34,11 +34,8 @@
 ## :zap: Some Languages and Tools:
 
 [<img src="./assets/images/javascript.svg" alt="Javascript Icon" width="40px"/>]()
-[<img src="./assets/images/typescript.svg" alt="typescript Icon" width="40px"/>]()
 [<img src="./assets/images/jquery.svg" alt="jquery Icon" width="40px"/>]()
 [<img src="./assets/images/nodejs.svg" alt="nodejs Icon" width="40px"/>]()
-[<img src="./assets/images/express.svg" alt="express Icon" width="40px"/>]()
-[<img src="./assets/images/angular.svg" alt="Angular Icon" width="40px"/>]()
 [<img src="./assets/images/react.svg" alt="React Icon" width="40px"/>]()
 [<img src="./assets/images/html5.svg" alt="html5 Icon" width="40px"/>]()
 [<img src="./assets/images/css3.svg" alt="css3 Icon" width="40px"/>]()
@@ -56,7 +53,6 @@
 <br/>  
 <div align="center">
 
-![VisitorCount](https://profile-counter.glitch.me/{geekabdel}/count.svg)
 
 </div>
 
