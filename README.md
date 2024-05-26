@@ -1,4 +1,3 @@
-![Header Illustration](./assets/images/header.png)
 
 ### Hello World ! I'm Abdelhamid 👋
 
