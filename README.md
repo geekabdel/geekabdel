@@ -1,10 +1,9 @@
 
 ### Hello World ! I'm Abdelhamid 👋
 
-## ✅💡💻 I'm a Software Developer , Born To Be Geek 100% ! ✅💡💻
+## ✅💡💻  Born To Be Geek 100% ! ✅💡💻
 
-- 🔑 I’m currently learning **DevOps** 💡
-- 📈 2024 Goals: Being the best on what i am doing (**Programing**) /_ It's my Year _/
+- 📈 2025 Goals: Being the best on what i am doing (**Programing**) /_ It's my Year _/
 - ⚡ logo: **Purpose Never Die ** 💟
 - 👯 I’m always looking to **collaborate with others**
 
